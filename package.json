@@ -1,0 +1,15 @@
+{
+  "name": "gold-signal-bot",
+  "version": "1.0.0",
+  "description": "Telegram gold signal bot with 14 buttons and auto 20/40/60/80/100 pip updates",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
